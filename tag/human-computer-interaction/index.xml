@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>human-computer interaction | Marcin Rogowski</title>
+    <link>https://mrogowski.github.io/tag/human-computer-interaction/</link>
+      <atom:link href="https://mrogowski.github.io/tag/human-computer-interaction/index.xml" rel="self" type="application/rss+xml" />
+    <description>human-computer interaction</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mrogowski.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>human-computer interaction</title>
+      <link>https://mrogowski.github.io/tag/human-computer-interaction/</link>
+    </image>
+    
+    <item>
+      <title>Human-Computer Interaction</title>
+      <link>https://mrogowski.github.io/project/hci/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://mrogowski.github.io/project/hci/</guid>
+      <description>&lt;p&gt;Starting during my intership at &lt;a href=&#34;https://www.calit2.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Calit2&lt;/a&gt; at &lt;a href=&#34;https://ucsd.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of California, San Diego&lt;/a&gt;, I became interested in Human-Computer Interaction. My first project was to use Microsoft Kinect for gesture navigation, head and hand tracking in 3D caves with the application to digital archeology.
+Back at KAUST I continued this project and started working with the Visualization Core Lab on the visualization of large biological data sets, interaction, and selection.&lt;/p&gt;
+&lt;p&gt;Once I moved to Saudi Aramco in 2013, I continued research in similar areas. In the Hyper-Dimensional Simulator project, we evaluated different techniques of interaction with big data originating from reservoir simulation. We focused on gesture control and worked with &lt;a href=&#34;https://www.oblong.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Oblong&lt;/a&gt;. Together, we evaluated a range of technologies: Vicon motion capture cameras, Novint Falcon&amp;rsquo;s haptic device, 3D mouse, Leap Motion, Microsoft Kinect, etc. Our product was presented to high local government officials, company representatives as well as the general public.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

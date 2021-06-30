@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>biometrics | Marcin Rogowski</title>
+    <link>https://mrogowski.github.io/tag/biometrics/</link>
+      <atom:link href="https://mrogowski.github.io/tag/biometrics/index.xml" rel="self" type="application/rss+xml" />
+    <description>biometrics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mrogowski.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>biometrics</title>
+      <link>https://mrogowski.github.io/tag/biometrics/</link>
+    </image>
+    
+    <item>
+      <title>Biometrics</title>
+      <link>https://mrogowski.github.io/project/biometrics/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://mrogowski.github.io/project/biometrics/</guid>
+      <description>&lt;p&gt;Starting in 2008, as a second year Computer Science B.Sc. student at the &lt;a href=&#34;https://pb.edu.pl/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bialystok University of Technology&lt;/a&gt;, I started working on keystroke dynamics with &lt;a href=&#34;http://biometria.wi.pb.edu.pl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Khalid Saeed&lt;/a&gt;. Keystroke dynamics is one of biometric methods that can be used to authenticate or identify users. The method falls under behavioral features and is based on how a user performs certain tasks - in this case - how user types on a keyboard. The typing style was shown to differentiate well between users. The idea first came as early as 1975 when it was mentioned by R. J. Spillane and has since then been modified and improved on multiple occasions with the results reported as high as 99-100% correct classification. In general, in almost all the prior work on keystroke dynamics the user is asked to type a particular password multiple times. The method can be used for both authentication (strenghtening the password or continuously verifying the user&amp;rsquo;s identity) or identification (determining the user based on his typing style).&lt;/p&gt;
+&lt;p&gt;My work started by analyzing the impact of the database quality on the method&amp;rsquo;s efficiency and continued with the implementation of a JavaScript-based website to collect experimental data. My biggest contributions, however, were in the area of user authentication on mobile devices. Back in 2012, when smartphones started rapidly gaining popularity, I researched methods of authentication on mobile devices and proposed keystroke dynamics as one of the solutions. I then implemented a custom Android keyboard that was collected extra information from the touchscreen and the gyroscope as users were typing. The resulting ensemble of data showed promising results.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
