@@ -55,7 +55,7 @@
     </item>
     
     <item>
-      <title>Intelligent identification of least-connected components of reservoir simulation models</title>
+      <title>Intelligent Identification of Least-Connected Components of Reservoir Simulation Models</title>
       <link>https://mrogowski.github.io/publication/2019_hpc_adipec_sectors/</link>
       <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://mrogowski.github.io/publication/2019_hpc_adipec_sectors/</guid>
@@ -72,9 +72,9 @@
 &lt;/div&gt;
  --&gt;
 &lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-&lt;p&gt;&lt;img src=&#34;sec2.png&#34; alt=&#34;screen reader text&#34; title=&#34;caption&#34;&gt;
-&lt;img src=&#34;sec3.png&#34; alt=&#34;screen reader text&#34; title=&#34;caption&#34;&gt;
-&lt;img src=&#34;sec4.png&#34; alt=&#34;screen reader text&#34; title=&#34;caption&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;sec2.png&#34; alt=&#34;&#34; title=&#34;&#34;&gt;
+&lt;img src=&#34;sec3.png&#34; alt=&#34;&#34; title=&#34;&#34;&gt;
+&lt;img src=&#34;sec4.png&#34; alt=&#34;&#34; title=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     

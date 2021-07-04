@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mobile | Marcin Rogowski</title>
+    <link>https://mrogowski.github.io/tag/mobile/</link>
+      <atom:link href="https://mrogowski.github.io/tag/mobile/index.xml" rel="self" type="application/rss+xml" />
+    <description>mobile</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mrogowski.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>mobile</title>
+      <link>https://mrogowski.github.io/tag/mobile/</link>
+    </image>
+    
+    <item>
+      <title>Mobile App Development</title>
+      <link>https://mrogowski.github.io/project/mobile_app/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://mrogowski.github.io/project/mobile_app/</guid>
+      <description>&lt;p&gt;Towards the end of my M.S. studies, in 2012-2013, Saad Al-Rawaf (now the founder of &lt;a href=&#34;https://cloudtoday.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CloudToday&lt;/a&gt;) and I ventured into mobile app development.
+One of the more successful attempts was Rethink - a new take on task management.&lt;/p&gt;
+&lt;p&gt;Our differentiator was the introduction of trigger-based tasks - reminders that were not activated by date and time but by location, contact with a particular person, or a fact of being connected to a specific WiFi network. While we did not continue the development past 2014, in some terms, our venture was successful. With around 30,000 users, we were featured by major media outlets such as The Washington Post, The Guardian, Stuff, All About Android and others. Similar functionality has since been incorporated in applications such as Apple&amp;rsquo;s Reminders and Google Keep.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/business/rethink-a-reminder-triggered-by-time-or-place/2013/04/13/44bbf77c-a16f-11e2-9c03-6952ff305f35_story.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;wp.jpg&#34; alt=&#34;&#34; title=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
